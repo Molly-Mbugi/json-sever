@@ -155,7 +155,59 @@
       ],
       "summary": "<p>A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to create and sell blue meth, leading them into a dangerous underworld.</p>",
       "runtime": 47
+    },
+    {
+      "id": 13,
+      "image": "https://static.tvmaze.com/uploads/images/original_untouched/4/10450.jpg",
+      "name": "Reconciliation",
+      
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "summary": "<p>Julia takes over as the leader of Chester's Mill after the town becomes divided in the wake of Big Jim and Rebecca's plans for population control. Meanwhile, Joe and Norrie help Melanie search for more clues about her identity at the Dome wall.</p>",
+      "runtime": 60
+    },
+    {
+      "id": 14,
+      "image": "https://static.tvmaze.com/uploads/images/original_untouched/4/10451.jpg",
+      "name": "In the Dark",
+      
+      "genres": [
+        "Crime",
+        "comedy",
+        "Thriller"
+      ],
+      "summary": "<p>When Barbie and Sam set out to investigate a mysterious tunnel, a cave-in severs their path back to Chester's Mill. Meanwhile, Julia and Big Jim face off in a struggle for power as a dust storm rages in the town.</p>",
+      "runtime": 50
+    },
+    {
+      "id": 15,
+      "image": "https://static.tvmaze.com/uploads/images/original_untouched/17/43622.jpg",
+      "name": "The Enemy Within",
+      
+      "genres": [
+        "Action",
+        "Adventure",
+        "comedy"
+      ],
+      "summary": "<p>As the Dome in Chester's Mill comes down, the Resistance makes a final attempt to protect the outside world from the infected townspeople in the Kinship and their new queen.</p>",
+      "runtime": 60
+    },
+    {
+      "id": 16,
+      "image": "https://static.tvmaze.com/uploads/images/original_untouched/12/32457.jpg",
+      "name": "The Kinship",
+      
+      "genres": [
+        
+        "Thriller"
+      ],
+      "summary": "<p>Urges the townspeople towards specific individuals and projects that remind them of their experience in the tunnels. Also, Julia and Big Jim make shocking discoveries that reveal a new threat within the Dome.</p>",
+      "runtime": 60
     }
+
   ]
 }
 
