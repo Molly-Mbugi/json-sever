@@ -4,7 +4,7 @@
       "id": 1,
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/81/202627.jpg",
       "name": "Under the Dome",
-      "url": "https://www.tvmaze.com/shows/1/under-the-dome",
+      
       "genres": [
         "Drama",
         "Science-Fiction",
@@ -17,7 +17,7 @@
       "id": 2,
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/163/407679.jpg",
       "name": "Person of Interest",
-      "url": "https://www.tvmaze.com/shows/2/person-of-interest",
+      
       "genres": [
         "Action",
         "Crime",
@@ -30,7 +30,7 @@
       "id": 3,
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/0/15.jpg",
       "name": "Bitten",
-      "url": "https://www.tvmaze.com/shows/3/bitten",
+      
       "genres": [
         "Drama",
         "Horror",
@@ -43,7 +43,7 @@
       "id": 4,
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/143/358967.jpg",
       "name": "Arrow",
-      "url": "https://www.tvmaze.com/shows/4/arrow",
+      
       "genres": [
         "Drama",
         "Action",
@@ -56,7 +56,7 @@
       "id": 5,
       "image": "https://static.tvmaze.com/uploads/images/original_untouched/490/1226764.jpg",
       "name": "True Detective",
-      "url": "https://www.tvmaze.com/shows/5/true-detective",
+      
       "genres": [
         "Drama",
         "Crime",
@@ -69,7 +69,7 @@
       "id": 6,
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/477/1194981.jpg",
       "name": "The 100",
-      "url": "https://www.tvmaze.com/shows/6/the-100",
+      
       "genres": [
         "Action",
         "Adventure",
@@ -82,7 +82,7 @@
       "id": 7,
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/200/501942.jpg",
       "name": "Stranger Things",
-      "url": "https://www.tvmaze.com/shows/2993/stranger-things",
+      
       "genres": [
         "Drama",
         "Fantasy",
@@ -95,7 +95,7 @@
       "id": 8,
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/1/4591.jpg",
       "name": "Long shadow",
-      "url": "https://www.tvmaze.com/shows/1261/black-mirror",
+      
       "genres": [
         "Drama",
         "Sci-Fi",
@@ -108,7 +108,7 @@
       "id": 9,
       "image": "https://static.tvmaze.com/uploads/images/original_untouched/397/994954.jpg",
       "name": "Transpoter",
-      "url": "https://www.tvmaze.com/shows/1371/westworld",
+      
       "genres": [
         "Drama",
         "Mystery",
@@ -121,7 +121,7 @@
       "id": 10,
       "image": "https://static.tvmaze.com/uploads/images/original_untouched/1/4590.jpg",
       "name": "The town of the living dead",
-      "url": "https://www.tvmaze.com/shows/641/the-expanse",
+      
       "genres": [
         "Drama",
         "Mystery",
@@ -134,7 +134,7 @@
       "id": 11,
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/199/498549.jpg",
       "name": "The Mandalorian",
-      "url": "https://www.tvmaze.com/shows/42701/the-mandalorian",
+      
       "genres": [
         "Action",
         "Adventure",
@@ -147,7 +147,7 @@
       "id": 12,
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2071.jpg",
       "name": "Breaking Bad",
-      "url": "https://www.tvmaze.com/shows/169/breaking-bad",
+      
       "genres": [
         "Crime",
         "Drama",
