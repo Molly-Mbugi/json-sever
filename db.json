@@ -1,10 +1,9 @@
 {
   "episodes": [
     {
-      "id": 1,
+      "id": "1",
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/81/202627.jpg",
       "name": "Under the Dome",
-      
       "genres": [
         "Drama",
         "Science-Fiction",
@@ -14,10 +13,9 @@
       "runtime": 60
     },
     {
-      "id": 2,
+      "id": "2",
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/163/407679.jpg",
       "name": "Person of Interest",
-      
       "genres": [
         "Action",
         "Crime",
@@ -27,10 +25,9 @@
       "runtime": 60
     },
     {
-      "id": 3,
+      "id": "3",
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/0/15.jpg",
       "name": "Bitten",
-      
       "genres": [
         "Drama",
         "Horror",
@@ -40,10 +37,9 @@
       "runtime": 60
     },
     {
-      "id": 4,
+      "id": "4",
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/143/358967.jpg",
       "name": "Arrow",
-      
       "genres": [
         "Drama",
         "Action",
@@ -53,10 +49,9 @@
       "runtime": 60
     },
     {
-      "id": 5,
+      "id": "5",
       "image": "https://static.tvmaze.com/uploads/images/original_untouched/490/1226764.jpg",
       "name": "True Detective",
-      
       "genres": [
         "Drama",
         "Crime",
@@ -66,10 +61,9 @@
       "runtime": 60
     },
     {
-      "id": 6,
+      "id": "6",
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/477/1194981.jpg",
       "name": "The 100",
-      
       "genres": [
         "Action",
         "Adventure",
@@ -79,10 +73,9 @@
       "runtime": 60
     },
     {
-      "id": 7,
+      "id": "7",
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/200/501942.jpg",
       "name": "Stranger Things",
-      
       "genres": [
         "Drama",
         "Fantasy",
@@ -92,10 +85,9 @@
       "runtime": 60
     },
     {
-      "id": 8,
+      "id": "8",
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/1/4591.jpg",
       "name": "Long shadow",
-      
       "genres": [
         "Drama",
         "Sci-Fi",
@@ -105,10 +97,9 @@
       "runtime": 60
     },
     {
-      "id": 9,
+      "id": "9",
       "image": "https://static.tvmaze.com/uploads/images/original_untouched/397/994954.jpg",
       "name": "Transpoter",
-      
       "genres": [
         "Drama",
         "Mystery",
@@ -118,10 +109,9 @@
       "runtime": 60
     },
     {
-      "id": 10,
+      "id": "10",
       "image": "https://static.tvmaze.com/uploads/images/original_untouched/1/4590.jpg",
       "name": "The town of the living dead",
-      
       "genres": [
         "Drama",
         "Mystery",
@@ -131,10 +121,9 @@
       "runtime": 60
     },
     {
-      "id": 11,
+      "id": "11",
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/199/498549.jpg",
       "name": "The Mandalorian",
-      
       "genres": [
         "Action",
         "Adventure",
@@ -144,10 +133,9 @@
       "runtime": 40
     },
     {
-      "id": 12,
+      "id": "12",
       "image": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2071.jpg",
       "name": "Breaking Bad",
-      
       "genres": [
         "Crime",
         "Drama",
@@ -157,10 +145,9 @@
       "runtime": 47
     },
     {
-      "id": 13,
+      "id": "13",
       "image": "https://static.tvmaze.com/uploads/images/original_untouched/4/10450.jpg",
       "name": "Reconciliation",
-      
       "genres": [
         "Action",
         "Adventure",
@@ -170,10 +157,9 @@
       "runtime": 60
     },
     {
-      "id": 14,
+      "id": "14",
       "image": "https://static.tvmaze.com/uploads/images/original_untouched/4/10451.jpg",
       "name": "In the Dark",
-      
       "genres": [
         "Crime",
         "comedy",
@@ -183,10 +169,9 @@
       "runtime": 50
     },
     {
-      "id": 15,
+      "id": "15",
       "image": "https://static.tvmaze.com/uploads/images/original_untouched/17/43622.jpg",
       "name": "The Enemy Within",
-      
       "genres": [
         "Action",
         "Adventure",
@@ -196,21 +181,14 @@
       "runtime": 60
     },
     {
-      "id": 16,
+      "id": "16",
       "image": "https://static.tvmaze.com/uploads/images/original_untouched/12/32457.jpg",
       "name": "The Kinship",
-      
       "genres": [
-        
         "Thriller"
       ],
       "summary": "<p>Urges the townspeople towards specific individuals and projects that remind them of their experience in the tunnels. Also, Julia and Big Jim make shocking discoveries that reveal a new threat within the Dome.</p>",
       "runtime": 60
     }
-
   ]
 }
-
-
-
-  
